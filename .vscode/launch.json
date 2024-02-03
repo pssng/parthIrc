@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<parth.irc>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "it.pssng.parth.irc.Application",
+            "projectName": "parth.irc",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
